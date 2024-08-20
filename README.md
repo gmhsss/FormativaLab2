@@ -1,6 +1,7 @@
 # FormativaLab2
 Este projeto consiste em um sistema de alarmes para monitoramento de ambientes industriais utilizando placas ESP e sensores. O sistema foi desenvolvido para detectar condições críticas de temperatura e umidade, acionando sistemas de ventilação e alertas conforme necessário.
-Funcionalidades
+
+# Funcionalidades
 Monitoramento de Temperatura e Umidade:
 
 A ESP monitora dois ambientes diferentes.
@@ -21,3 +22,8 @@ ESP1: Um slide switch permite desativar o envio de mensagens para a ESP2 e retor
 Uso de Threads:
 
 O sistema utiliza threads para gerenciar as operações de monitoramento e controle simultaneamente.
+
+  Conclusão
+Este sistema é uma solução robusta para o monitoramento e controle de ambientes industriais, utilizando placas ESP e diversos sensores. A implementação de threads garante uma operação eficiente e simultânea das funcionalidades.
+
+Para qualquer dúvida ou problema, por favor, consulte o manual completo ou entre em contato com os desenvolvedores através do GitHub.
