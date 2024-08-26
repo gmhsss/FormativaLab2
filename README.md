@@ -63,18 +63,6 @@ Um SLIDE SWITCH permite desativar os alarmes. Se o switch estiver ligado, os ala
 ESP1:
 
 Um SLIDE SWITCH permite desativar o envio de mensagens para a ESP2. Se o switch estiver ligado, as mensagens são interrompidas e os SERVOS 1 e 2 retornam a 0 graus.
-## Requisitos
-Threads: A implementação deve utilizar threads para gerenciamento das operações simultâneas.
-Trabalho em Grupo/Individual: Este projeto faz parte da nota do PJBL e pode ser realizado em grupo (LAB2) ou individualmente.
-Componentes Necessários
-2 ESPs
-Sensores de temperatura
-Sensores de umidade
-2 Servo motores
-Buzzer
-LED
-Chaves deslizantes (slide switches)
-Implementação
-O projeto requer a configuração dos sensores, controle dos motores, e gerenciamento dos alertas e mensagens entre as ESPs utilizando threads para garantir a operação eficiente e simultânea dos componentes.
+
 **Autores**: Anthony Sutil, Pedro Martins, Rafaella Somoza
 **Data**: 26/08/2024
