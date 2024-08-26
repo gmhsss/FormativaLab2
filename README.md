@@ -63,4 +63,4 @@ ESP1:
 Um SLIDE SWITCH permite desativar o envio de mensagens para a ESP2. Se o switch estiver ligado, as mensagens são interrompidas e os SERVOS 1 e 2 retornam a 0 graus.
 
 **Autores**: Anthony Sutil, Pedro Martins, Rafaella Somoza
-**Data**: 26/08/2024
+**Data**: 20/08/2024
