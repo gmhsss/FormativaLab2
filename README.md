@@ -1,4 +1,4 @@
-# FormativaLab2
+# FormativaLab2/Atividade IOT Threads
 Este projeto consiste em um sistema de alarmes para monitoramento de ambientes industriais utilizando placas ESP32 e sensores. O sistema foi desenvolvido para detectar condições críticas de temperatura e umidade, acionando sistemas de ventilação e alertas conforme necessário.
 
 
@@ -36,7 +36,7 @@ Este sistema é uma solução para o monitoramento e controle de ambientes indus
 **Data**: 20/08/2024
 
 ## IOT com Threads
-Descrição
+ Funcionalidades
 Este sistema é projetado para monitorar e controlar ambientes usando uma ESP e sensores de temperatura e umidade. Ele realiza as seguintes funções:
 
 ## Monitoramento e Controle de Temperatura
